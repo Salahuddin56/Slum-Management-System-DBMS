@@ -50,7 +50,7 @@ The system is designed to serve NGOs, government organizations, international ai
 | Name | Email |
 |---|---|
 | Afia Anjum Ananya | afia.anjum70@gmail.com |
-| Salahuddin Elias Khan | salahuddin56ieee@gmail.com |
+| Salahuddin Elias Khan | salahuddinace56@gmail.com |
 | Samiha Raisa Zaman | samiharaisa031@gmail.com |
 | Neamat Al Sarah | neamatsarah@gmail.com |
 | Tamanna Tasnim Tithy | tamannatasnim@gmail.com |
